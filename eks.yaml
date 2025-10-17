@@ -8,5 +8,5 @@ metadata:
 managedNodeGroups:
   - name: lasyainfotech
     instanceType: t2.small
-    desiredCapacity: 2
+    desiredCapacity: 1
     spot: true
