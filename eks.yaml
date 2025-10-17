@@ -5,7 +5,7 @@ metadata:
   name: lasyainfotech
   region: us-east-1
 
-  managedNodeGroups:
+managedNodeGroups:
   - name: lasyainfotech
     instanceType: t2.small
     desiredCapacity: 2
