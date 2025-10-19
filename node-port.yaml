@@ -22,7 +22,7 @@ metadata:
     name: lasyainfy
     project: Ecoms-Jewellery
     component: Front-end
-    version: 1.2
+    version: "1.2"
 spec:
   containers:
     - name: nginx
